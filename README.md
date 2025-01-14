@@ -6,9 +6,9 @@ A simple GUI that when you click on the button, a message pops up saying, "Hello
 
 First task in creating a GUI.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/O-NNG_w8KP4))
 
 # Development Environment
 
@@ -18,6 +18,6 @@ C#
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [Microsoft C# Tutorial]([http://url.link.goes.here](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/))
+
