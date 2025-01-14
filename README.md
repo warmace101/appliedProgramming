@@ -9,7 +9,7 @@ First task in creating a GUI.
 
 
 [Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/O-NNG_w8KP4))
-
+https://youtu.be/O-NNG_w8KP4
 # Development Environment
 
 Visual Studio
