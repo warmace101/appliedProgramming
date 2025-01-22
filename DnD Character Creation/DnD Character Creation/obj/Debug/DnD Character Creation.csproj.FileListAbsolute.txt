@@ -1,0 +1,18 @@
+C:\Users\gamer\source\repos\DnD Character Creation\DnD Character Creation\obj\Debug\DnD Character Creation.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\DnD Character Creation\DnD Character Creation\obj\Debug\DnDCharacterCreator.Character.resources
+C:\Users\gamer\source\repos\DnD Character Creation\DnD Character Creation\obj\Debug\DnD_Character_Creation.Properties.Resources.resources
+C:\Users\gamer\source\repos\DnD Character Creation\DnD Character Creation\obj\Debug\DnD Character Creation.csproj.GenerateResource.cache
+C:\Users\gamer\source\repos\DnD Character Creation\DnD Character Creation\obj\Debug\DnD Character Creation.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\DnD Character Creation\DnD Character Creation\obj\Debug\DnDCharacterCreator.MainForm.resources
+C:\Users\gamer\source\repos\DnD Character Creation\DnD Character Creation\obj\Debug\DnDCharacterCreator.Program.resources
+C:\Users\gamer\source\repos\DnD Character Creation\DnD Character Creation\obj\Debug\DnDCharacterSheet.MainForm.resources
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\obj\Debug\DnD Character Creation.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\obj\Debug\DnD_Character_Creation.Properties.Resources.resources
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\obj\Debug\DnD Character Creation.csproj.GenerateResource.cache
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\obj\Debug\DnD Character Creation.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\bin\Debug\DnD Character Creation.exe.config
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\bin\Debug\DnD Character Creation.exe
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\bin\Debug\DnD Character Creation.pdb
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\obj\Debug\DnD_Character_Creation.MainForm.resources
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\obj\Debug\DnD Character Creation.exe
+C:\Users\gamer\source\repos\appliedProgramming\DnD Character Creation\DnD Character Creation\obj\Debug\DnD Character Creation.pdb
